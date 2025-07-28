@@ -1,0 +1,12 @@
+{
+  "name": "wss-tcp-proxy",
+  "version": "1.0.0",
+  "description": "WebSocket to TCP proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
